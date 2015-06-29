@@ -1,5 +1,10 @@
 # Python3 in one pic
 
+<!-- BADGES/ -->
+[![Gitter chat button](https://img.shields.io/badge/gitter-Join%20Chat-brightgreen.svg)](https://gitter.im/coodict/python3-in-one-pic)
+[![BitCoin donate button](https://img.shields.io/badge/bitcoin-donate-yellow.svg)](https://www.coinbase.com/rainyear)
+<!-- /BADGES -->
+
 ## Color notes
 
 ## TODO
