@@ -19,17 +19,21 @@
 ## TODO
 
 - [X] `import this`
+- [X] Basic Syntax
 - [ ] Native Datatypes
-  - [ ] Numbers
-  - [ ] Strings
-  - [ ] Booleans
+  - [ ] Number
+  - [ ] String
+  - [ ] Boolean
   - [ ] None
-  - [ ] Bytes
-  - [ ] Lists
-  - [ ] Tuples
-  - [ ] Sets
+  - [ ] Byte
+  - [ ] List
+  - [ ] Tuple
+  - [ ] Set
   - [ ] Dict
 - [ ] Flow Control
+  - [ ] `if/elif/else`
+  - [ ] `for...in...`
+  - [ ] `while`
 - [ ] Function
 - [ ] Class(OOP)
 - [ ] Module
