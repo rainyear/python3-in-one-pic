@@ -48,6 +48,7 @@ If you find this project helpful, please consider making a donation with [bitcoi
 2. [Dive Into Python 3](http://www.diveintopython3.net/table-of-contents.html)
 3. Writing Idiomatic Python 3.3
 4. [Google Python Style Guide](https://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
+5. [廖雪峰的Python教程](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 
 ## License
 See the [LICENSE](LICENSE) file for license rights and limitations (MIT).
