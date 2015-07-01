@@ -21,15 +21,16 @@
 - [X] `import this`
 - [X] Basic Syntax
 - [ ] Native Datatypes
-  - [ ] Number
-  - [ ] String
-  - [ ] Boolean
-  - [ ] None
-  - [ ] Byte
+  - [X] Number
+  - [X] String
+  - [X] Boolean
+  - [X] None
+  - [X] Byte
   - [ ] List
   - [ ] Tuple
   - [ ] Set
   - [ ] Dict
+- [ ] Operators & Casting
 - [ ] Flow Control
   - [ ] `if/elif/else`
   - [ ] `for...in...`
