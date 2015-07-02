@@ -26,7 +26,7 @@
   - [X] Boolean
   - [X] None
   - [X] Byte
-  - [ ] List
+  - [X] List
   - [ ] Tuple
   - [ ] Set
   - [ ] Dict
