@@ -27,7 +27,7 @@
   - [X] None
   - [X] Byte
   - [X] List
-  - [ ] Tuple
+  - [X] Tuple
   - [ ] Set
   - [ ] Dict
 - [ ] Operators & Casting
