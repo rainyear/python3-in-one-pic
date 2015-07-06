@@ -91,6 +91,23 @@ del l[2]
 print(l.index('pic'))       # 2
 
 # Tuple
+tp = (1, 2, 3, [4, 5])
+print(type(tp)) # <class 'tuple'>
+
+## Length
+print(len(tp))  # 4
+
+print(tp[2])    # 3
+tp[3][1] = 6
+print(tp)       # (1, 2, 3, [4, 6])
+
+## Single element
+tp = (1, )      # Not tp = (1)
+
+## Assign multiple values at once
+v = (3, 2, 'a')
+(c, b, a) = v
+print(a, b, c)  # a 2 3
 
 # Set
 
