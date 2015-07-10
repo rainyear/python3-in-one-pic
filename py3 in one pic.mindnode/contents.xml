@@ -32,7 +32,7 @@
 				<key>location</key>
 				<string>{0, -0.53240892423241348}</string>
 				<key>nodeID</key>
-				<string>C7B3A919-30FF-450B-A8AF-79DFE9533A94</string>
+				<string>280F90C2-40EB-47FE-9A69-7F68C8C3AA21</string>
 				<key>strokeColor</key>
 				<string>{0.500, 0.500, 0.500, 1.000}</string>
 				<key>strokeStyle</key>
@@ -53,9 +53,9 @@
 						<key>isLeftAligned</key>
 						<false/>
 						<key>location</key>
-						<string>{263, -1125.0324089242324}</string>
+						<string>{263, -1479.5324089242324}</string>
 						<key>nodeID</key>
-						<string>B8F9268D-CFEB-42F9-9522-8707F5D6A3BB</string>
+						<string>22B0D7A4-D253-4BB6-A7A5-35180C21F953</string>
 						<key>strokeColor</key>
 						<string>{0.502, 0.502, 0.502, 1.000}</string>
 						<key>strokeStyle</key>
@@ -94,9 +94,9 @@
 						<key>isLeftAligned</key>
 						<false/>
 						<key>location</key>
-						<string>{263, -1019.5324089242324}</string>
+						<string>{263, -1374.0324089242324}</string>
 						<key>nodeID</key>
-						<string>FFA20684-BDDF-40C9-A7C5-605734C596C9</string>
+						<string>0DE2F625-2F23-47AE-A53C-BA9949645129</string>
 						<key>strokeColor</key>
 						<string>{0.502, 0.502, 0.502, 1.000}</string>
 						<key>strokeStyle</key>
@@ -117,9 +117,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{436, -1073.5324089242324}</string>
+								<string>{436, -1428.0324089242324}</string>
 								<key>nodeID</key>
-								<string>5B4185AA-1308-4DBF-80AA-479C9CC8ABB6</string>
+								<string>B97D5EBE-49FC-42E0-BE3E-BD9AA2848FD3</string>
 								<key>strokeColor</key>
 								<string>{0.502, 0.502, 0.502, 1.000}</string>
 								<key>strokeStyle</key>
@@ -140,9 +140,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{626, -1091.0324089242324}</string>
+										<string>{626, -1445.5324089242324}</string>
 										<key>nodeID</key>
-										<string>56D08A73-EF3D-4522-AC8C-8BF7BEBEA355</string>
+										<string>5C0EF253-DF42-41AE-81CB-91D64E96E55D</string>
 										<key>strokeColor</key>
 										<string>{0.502, 0.502, 0.502, 1.000}</string>
 										<key>strokeStyle</key>
@@ -205,9 +205,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{436, -1021.0324089242324}</string>
+								<string>{436, -1375.5324089242324}</string>
 								<key>nodeID</key>
-								<string>23C15C2C-60BC-4471-9A92-8B1E659E6FD4</string>
+								<string>67CCC838-AB4C-4476-AED4-842833531B5D</string>
 								<key>strokeColor</key>
 								<string>{0.502, 0.502, 0.502, 1.000}</string>
 								<key>strokeStyle</key>
@@ -228,9 +228,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{576, -1021.0324089242324}</string>
+										<string>{576, -1375.5324089242324}</string>
 										<key>nodeID</key>
-										<string>20E15869-BCC5-46DA-B8AF-E3524142E810</string>
+										<string>BEA49516-8278-4693-BC5A-676C41EA68FB</string>
 										<key>strokeColor</key>
 										<string>{0.502, 0.502, 0.502, 1.000}</string>
 										<key>strokeStyle</key>
@@ -286,9 +286,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{436, -986.03240892423241}</string>
+								<string>{436, -1340.5324089242324}</string>
 								<key>nodeID</key>
-								<string>4FFF237D-0332-4ECB-B0B0-28D8379230AD</string>
+								<string>A05D5BAB-FFD6-45D2-AA58-FD8B8DFA4703</string>
 								<key>strokeColor</key>
 								<string>{0.502, 0.502, 0.502, 1.000}</string>
 								<key>strokeStyle</key>
@@ -309,9 +309,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{657, -986.03240892423241}</string>
+										<string>{657, -1340.5324089242324}</string>
 										<key>nodeID</key>
-										<string>7DAC5E48-3CB8-44D4-B962-0D3E1B1FF4BF</string>
+										<string>D2639237-59CF-401A-8D65-D3C618FD0230</string>
 										<key>strokeColor</key>
 										<string>{0.502, 0.502, 0.502, 1.000}</string>
 										<key>strokeStyle</key>
@@ -387,7 +387,7 @@
 						<key>location</key>
 						<string>{263, -7.0324089242324135}</string>
 						<key>nodeID</key>
-						<string>FDA3238C-7983-4FF3-A29A-6C7DB9EE2DD5</string>
+						<string>9FEA5DB9-5DE6-4B4E-998D-FF904378576C</string>
 						<key>strokeColor</key>
 						<string>{0.502, 0.502, 0.502, 1.000}</string>
 						<key>strokeStyle</key>
@@ -408,9 +408,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{470, -790.03240892423241}</string>
+								<string>{470, -1144.5324089242324}</string>
 								<key>nodeID</key>
-								<string>69E0994A-FD46-4495-B04B-2F2B66ACF9EE</string>
+								<string>98C8DC7C-EA01-4BAA-AB34-86AAA30A2F1C</string>
 								<key>strokeColor</key>
 								<string>{0.502, 0.502, 0.502, 1.000}</string>
 								<key>strokeStyle</key>
@@ -431,9 +431,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{593, -895.53240892423241}</string>
+										<string>{593, -1250.0324089242324}</string>
 										<key>nodeID</key>
-										<string>7D19A67C-0C3A-46F4-94C7-E66451EAF3E5</string>
+										<string>DE50CCB9-0671-4AD1-B379-488EE3BF7486</string>
 										<key>strokeColor</key>
 										<string>{0.502, 0.502, 0.502, 1.000}</string>
 										<key>strokeStyle</key>
@@ -454,9 +454,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{724, -913.03240892423241}</string>
+												<string>{724, -1267.5324089242324}</string>
 												<key>nodeID</key>
-												<string>070034DD-F8D8-4C9E-9466-A9EBCECA6E1E</string>
+												<string>2E761638-5BC9-4A42-9E0C-0DF81A2028B1</string>
 												<key>strokeColor</key>
 												<string>{0.502, 0.502, 0.502, 1.000}</string>
 												<key>strokeStyle</key>
@@ -516,9 +516,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{593, -816.53240892423241}</string>
+										<string>{593, -1171.0324089242324}</string>
 										<key>nodeID</key>
-										<string>FE295D79-4CA7-4B4C-BF26-94E1E1FB754E</string>
+										<string>18E22CF0-245E-4B5A-A90C-383D6633BFF6</string>
 										<key>strokeColor</key>
 										<string>{0.502, 0.502, 0.502, 1.000}</string>
 										<key>strokeStyle</key>
@@ -539,9 +539,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{708, -843.03240892423241}</string>
+												<string>{708, -1197.5324089242324}</string>
 												<key>nodeID</key>
-												<string>732778C2-F23B-4C78-9A75-F8C619AA9534</string>
+												<string>BAF20E43-DEDC-45CF-9DCB-7D2F316AB0BE</string>
 												<key>strokeColor</key>
 												<string>{0.502, 0.502, 0.502, 1.000}</string>
 												<key>strokeStyle</key>
@@ -604,9 +604,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{593, -728.53240892423241}</string>
+										<string>{593, -1083.0324089242324}</string>
 										<key>nodeID</key>
-										<string>65178FB2-D5CE-488E-A75F-D3B5F1856C24</string>
+										<string>E0215F89-6A7F-4329-AAC2-0FD7E21B4112</string>
 										<key>strokeColor</key>
 										<string>{0.502, 0.502, 0.502, 1.000}</string>
 										<key>strokeStyle</key>
@@ -627,9 +627,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{724, -755.03240892423241}</string>
+												<string>{724, -1109.5324089242324}</string>
 												<key>nodeID</key>
-												<string>0FD06566-7798-462D-BC32-8396FDAF13BF</string>
+												<string>DC4CB521-6E21-4B6C-ABA6-AE0AEA5F7FC1</string>
 												<key>strokeColor</key>
 												<string>{0.502, 0.502, 0.502, 1.000}</string>
 												<key>strokeStyle</key>
@@ -692,9 +692,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{593, -667.03240892423241}</string>
+										<string>{593, -1021.5324089242324}</string>
 										<key>nodeID</key>
-										<string>7E3B5B68-45F6-4274-9C09-197C34EF2D3D</string>
+										<string>9F363469-CEE3-4CB4-BC5F-00A2FAA1C8F5</string>
 										<key>strokeColor</key>
 										<string>{0.502, 0.502, 0.502, 1.000}</string>
 										<key>strokeStyle</key>
@@ -715,9 +715,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{741, -667.03240892423241}</string>
+												<string>{741, -1021.5324089242324}</string>
 												<key>nodeID</key>
-												<string>66DCDF97-A349-434D-96A1-6EBF19D4E5EA</string>
+												<string>0120338B-2A21-4E58-9305-F09A8552DF4E</string>
 												<key>strokeColor</key>
 												<string>{0.502, 0.502, 0.502, 1.000}</string>
 												<key>strokeStyle</key>
@@ -791,9 +791,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{470, -483.03240892423241}</string>
+								<string>{470, -837.53240892423241}</string>
 								<key>nodeID</key>
-								<string>C98A90C9-E547-4EBB-AFA7-7B82885CDF77</string>
+								<string>C499F8AE-F399-42BF-86AB-D27384569617</string>
 								<key>strokeColor</key>
 								<string>{0.502, 0.502, 0.502, 1.000}</string>
 								<key>strokeStyle</key>
@@ -814,9 +814,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{593, -632.03240892423241}</string>
+										<string>{593, -986.53240892423241}</string>
 										<key>nodeID</key>
-										<string>1D5491AF-6139-4BE6-A2B5-8536EBEB1B1C</string>
+										<string>6ED8346D-A31F-4740-A7B9-744A7396CC24</string>
 										<key>strokeColor</key>
 										<string>{0.502, 0.502, 0.502, 1.000}</string>
 										<key>strokeStyle</key>
@@ -886,9 +886,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{593, -386.03240892423241}</string>
+										<string>{593, -740.53240892423241}</string>
 										<key>nodeID</key>
-										<string>4FC1374F-1706-4868-A90B-C442AB90A904</string>
+										<string>B3161B83-BB53-40C1-8342-848D8BC15A4B</string>
 										<key>strokeColor</key>
 										<string>{0.502, 0.502, 0.502, 1.000}</string>
 										<key>strokeStyle</key>
@@ -909,9 +909,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{716, -386.03240892423241}</string>
+												<string>{716, -740.53240892423241}</string>
 												<key>nodeID</key>
-												<string>688A86D1-9B4A-4A63-82DA-7E1C6D025631</string>
+												<string>1C2E8F6A-F0DC-42B3-A440-289490921DE7</string>
 												<key>strokeColor</key>
 												<string>{0.502, 0.502, 0.502, 1.000}</string>
 												<key>strokeStyle</key>
@@ -968,9 +968,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{593, -342.53240892423241}</string>
+										<string>{593, -697.03240892423241}</string>
 										<key>nodeID</key>
-										<string>EE5DED76-2F75-4644-B63E-9AB943EE9E74</string>
+										<string>FA9FE980-BE1F-46BB-916A-FF2AB6351266</string>
 										<key>strokeColor</key>
 										<string>{0.502, 0.502, 0.502, 1.000}</string>
 										<key>strokeStyle</key>
@@ -991,9 +991,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{724, -351.03240892423241}</string>
+												<string>{724, -705.53240892423241}</string>
 												<key>nodeID</key>
-												<string>D8519A4C-C90C-4C06-B186-32D00696B87B</string>
+												<string>6BF4B4D5-0A7E-41AD-9C28-A6211E77BE9F</string>
 												<key>strokeColor</key>
 												<string>{0.502, 0.502, 0.502, 1.000}</string>
 												<key>strokeStyle</key>
@@ -1077,9 +1077,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{470, -238.03240892423241}</string>
+								<string>{470, -592.53240892423241}</string>
 								<key>nodeID</key>
-								<string>99AC918A-6AEF-479B-86DB-4F9037B0F1C6</string>
+								<string>5720C10F-5708-48C9-916D-218B36D1311A</string>
 								<key>strokeColor</key>
 								<string>{0.502, 0.502, 0.502, 1.000}</string>
 								<key>strokeStyle</key>
@@ -1100,9 +1100,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{582, -299.03240892423241}</string>
+										<string>{582, -653.53240892423241}</string>
 										<key>nodeID</key>
-										<string>73F39390-14DF-4A66-95FC-FDE86808BEFE</string>
+										<string>0C6BBC16-CA46-481E-B320-E67800BBD78C</string>
 										<key>strokeColor</key>
 										<string>{0.502, 0.502, 0.502, 1.000}</string>
 										<key>strokeStyle</key>
@@ -1140,9 +1140,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{582, -238.03240892423241}</string>
+										<string>{582, -592.53240892423241}</string>
 										<key>nodeID</key>
-										<string>F16F9A84-05E6-4712-96F5-C050E602CEC0</string>
+										<string>D63255FC-563F-4B59-ABE5-C2701AF600D7</string>
 										<key>strokeColor</key>
 										<string>{0.502, 0.502, 0.502, 1.000}</string>
 										<key>strokeStyle</key>
@@ -1163,9 +1163,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{790, -265.03240892423241}</string>
+												<string>{790, -619.53240892423241}</string>
 												<key>nodeID</key>
-												<string>DE485AFD-F9E7-45E4-8B8F-3EB84BF93D13</string>
+												<string>F7C55AFD-2640-4D7C-8359-75B2AAB9A1ED</string>
 												<key>strokeColor</key>
 												<string>{0.502, 0.502, 0.502, 1.000}</string>
 												<key>strokeStyle</key>
@@ -1231,9 +1231,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{582, -177.03240892423241}</string>
+										<string>{582, -531.53240892423241}</string>
 										<key>nodeID</key>
-										<string>EC6CC863-2B8C-47D7-B2F3-2E3DFA01CADC</string>
+										<string>2EF95AAB-E86B-402C-9E05-26D8EA98C15C</string>
 										<key>strokeColor</key>
 										<string>{0.502, 0.502, 0.502, 1.000}</string>
 										<key>strokeStyle</key>
@@ -1254,9 +1254,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{705, -177.03240892423241}</string>
+												<string>{705, -531.53240892423241}</string>
 												<key>nodeID</key>
-												<string>82830ADA-FE17-4FC0-9181-B068DAACC76E</string>
+												<string>800B4763-6754-42F9-9402-A16BC9610BA6</string>
 												<key>strokeColor</key>
 												<string>{0.502, 0.502, 0.502, 1.000}</string>
 												<key>strokeStyle</key>
@@ -1331,9 +1331,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{470, -108.53240892423241}</string>
+								<string>{470, -463.03240892423241}</string>
 								<key>nodeID</key>
-								<string>6DF15D06-C84C-4400-BB91-1042B67F3B5C</string>
+								<string>52F553A7-D773-4D18-A54A-E23BD050F8F0</string>
 								<key>strokeColor</key>
 								<string>{0.502, 0.502, 0.502, 1.000}</string>
 								<key>strokeStyle</key>
@@ -1354,9 +1354,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{601, -142.03240892423241}</string>
+										<string>{601, -496.53240892423241}</string>
 										<key>nodeID</key>
-										<string>F8DF3851-D610-478D-856E-51752F269448</string>
+										<string>06647E00-9BBF-4045-ACEA-0CB81D0A8647</string>
 										<key>strokeColor</key>
 										<string>{0.502, 0.502, 0.502, 1.000}</string>
 										<key>strokeStyle</key>
@@ -1394,9 +1394,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{601, -108.03240892423241}</string>
+										<string>{601, -462.53240892423241}</string>
 										<key>nodeID</key>
-										<string>0C719956-7C73-428A-8EBC-0DD622F39A60</string>
+										<string>859A207C-DCC1-41F1-9E64-5E73629DC85E</string>
 										<key>strokeColor</key>
 										<string>{0.502, 0.502, 0.502, 1.000}</string>
 										<key>strokeStyle</key>
@@ -1434,9 +1434,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{601, -74.032408924232413}</string>
+										<string>{601, -428.53240892423241}</string>
 										<key>nodeID</key>
-										<string>6D3D7FF8-8F5E-4589-9AE3-8972B9947FCA</string>
+										<string>98964E5C-43B2-470D-ADEE-95EFF8B5A1A2</string>
 										<key>strokeColor</key>
 										<string>{0.502, 0.502, 0.502, 1.000}</string>
 										<key>strokeStyle</key>
@@ -1493,9 +1493,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{470, -23.532408924232413}</string>
+								<string>{470, -378.03240892423241}</string>
 								<key>nodeID</key>
-								<string>18AA417B-8D04-499C-860B-81298F30A7CE</string>
+								<string>56384D21-EEFB-4546-8FEB-DCBCB74F594C</string>
 								<key>strokeColor</key>
 								<string>{0.502, 0.502, 0.502, 1.000}</string>
 								<key>strokeStyle</key>
@@ -1516,9 +1516,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{582, -40.032408924232413}</string>
+										<string>{582, -394.53240892423241}</string>
 										<key>nodeID</key>
-										<string>0D649197-F130-42AD-B1F7-150A5843F1D3</string>
+										<string>1F0274A9-825F-44FF-9AF4-CA14F8883569</string>
 										<key>strokeColor</key>
 										<string>{0.502, 0.502, 0.502, 1.000}</string>
 										<key>strokeStyle</key>
@@ -1557,9 +1557,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{582, -6.0324089242324135}</string>
+										<string>{582, -360.53240892423241}</string>
 										<key>nodeID</key>
-										<string>D21354FB-5F36-4609-A65D-CB33B706998D</string>
+										<string>C1F268FA-6333-407B-8106-6722D1BF083D</string>
 										<key>strokeColor</key>
 										<string>{0.502, 0.502, 0.502, 1.000}</string>
 										<key>strokeStyle</key>
@@ -1616,9 +1616,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{470, 254.46759107576759}</string>
+								<string>{470, -100.03240892423241}</string>
 								<key>nodeID</key>
-								<string>43D5B889-7693-4BA7-A6B6-98CDCEBB4380</string>
+								<string>AEE28D82-70FF-46F8-A402-7ED5540CE6D2</string>
 								<key>strokeColor</key>
 								<string>{0.502, 0.502, 0.502, 1.000}</string>
 								<key>strokeStyle</key>
@@ -1639,9 +1639,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{582, 27.967591075767587}</string>
+										<string>{582, -326.53240892423241}</string>
 										<key>nodeID</key>
-										<string>039FDC90-8B10-40DA-AA06-9F9F51D07E95</string>
+										<string>61A8FF91-4800-4886-A5F9-1C9C42F5F70B</string>
 										<key>strokeColor</key>
 										<string>{0.502, 0.502, 0.502, 1.000}</string>
 										<key>strokeStyle</key>
@@ -1683,9 +1683,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{582, 79.967591075767587}</string>
+										<string>{582, -274.53240892423241}</string>
 										<key>nodeID</key>
-										<string>A2BC6EEC-A0F9-479E-9E61-173170DDC93B</string>
+										<string>8B310678-84A2-4580-A67B-9A365E1E4318</string>
 										<key>strokeColor</key>
 										<string>{0.502, 0.502, 0.502, 1.000}</string>
 										<key>strokeStyle</key>
@@ -1706,9 +1706,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{705, 79.967591075767587}</string>
+												<string>{705, -274.53240892423241}</string>
 												<key>nodeID</key>
-												<string>3A06CFD9-CB1E-4E17-86B1-3D964E2D3800</string>
+												<string>E540D3C6-1FC0-469C-A6C6-2AB88C6E8A87</string>
 												<key>strokeColor</key>
 												<string>{0.502, 0.502, 0.502, 1.000}</string>
 												<key>strokeStyle</key>
@@ -1765,9 +1765,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{582, 132.46759107576759}</string>
+										<string>{582, -222.03240892423241}</string>
 										<key>nodeID</key>
-										<string>3F7E7C64-045D-43D5-A12F-1390232AD4FD</string>
+										<string>6CB3CA53-8702-4A07-9C56-36964F526C07</string>
 										<key>strokeColor</key>
 										<string>{0.502, 0.502, 0.502, 1.000}</string>
 										<key>strokeStyle</key>
@@ -1788,9 +1788,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{713, 114.96759107576759}</string>
+												<string>{713, -239.53240892423241}</string>
 												<key>nodeID</key>
-												<string>6D723CC1-FD01-4827-944A-83973FD2FB01</string>
+												<string>32EEECB9-A1AB-41D3-A65A-34D5C2936C5F</string>
 												<key>strokeColor</key>
 												<string>{0.502, 0.502, 0.502, 1.000}</string>
 												<key>strokeStyle</key>
@@ -1853,9 +1853,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{582, 315.46759107576759}</string>
+										<string>{582, -39.032408924232413}</string>
 										<key>nodeID</key>
-										<string>53A9BC5E-3F85-42B4-8BAA-13F01EB99701</string>
+										<string>4C01239F-F700-4B22-A9FC-5F7DC1213D17</string>
 										<key>strokeColor</key>
 										<string>{0.502, 0.502, 0.502, 1.000}</string>
 										<key>strokeStyle</key>
@@ -1876,9 +1876,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{697, 184.96759107576759}</string>
+												<string>{697, -169.53240892423241}</string>
 												<key>nodeID</key>
-												<string>0332FA4E-E17C-4454-9214-BD8C7880104D</string>
+												<string>8A595D47-84A6-4AAB-8570-BF8C9AF17267</string>
 												<key>strokeColor</key>
 												<string>{0.502, 0.502, 0.502, 1.000}</string>
 												<key>strokeStyle</key>
@@ -1976,9 +1976,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{582, 480.96759107576759}</string>
+										<string>{582, 126.46759107576759}</string>
 										<key>nodeID</key>
-										<string>477F06A8-ED0C-4CFC-A1A7-3EFE80339AC9</string>
+										<string>AF250E9A-BE70-4EF3-84EF-3DCA562F340D</string>
 										<key>strokeColor</key>
 										<string>{0.502, 0.502, 0.502, 1.000}</string>
 										<key>strokeStyle</key>
@@ -1999,9 +1999,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{697, 480.96759107576759}</string>
+												<string>{697, 126.46759107576759}</string>
 												<key>nodeID</key>
-												<string>EDCF031A-0A69-4AB8-A491-6E794F4D9B9C</string>
+												<string>6A1C2CFA-0455-448C-B78B-837C878072A7</string>
 												<key>strokeColor</key>
 												<string>{0.502, 0.502, 0.502, 1.000}</string>
 												<key>strokeStyle</key>
@@ -2076,9 +2076,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{470, 672.46759107576759}</string>
+								<string>{470, 306.46759107576759}</string>
 								<key>nodeID</key>
-								<string>5C0BD17E-F99B-4A3C-AE63-DD0353366004</string>
+								<string>3ABE63DF-9B94-4A6A-8DEC-106BC9B9A81A</string>
 								<key>strokeColor</key>
 								<string>{0.502, 0.502, 0.502, 1.000}</string>
 								<key>strokeStyle</key>
@@ -2099,9 +2099,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{585, 515.96759107576759}</string>
+										<string>{585, 161.46759107576759}</string>
 										<key>nodeID</key>
-										<string>11AB58E3-65A4-448F-A654-7AC32252D7E2</string>
+										<string>22F51D96-214B-4AA5-A5A6-B05C0DFF9AA9</string>
 										<key>strokeColor</key>
 										<string>{0.502, 0.502, 0.502, 1.000}</string>
 										<key>strokeStyle</key>
@@ -2139,9 +2139,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{585, 550.96759107576759}</string>
+										<string>{585, 196.46759107576759}</string>
 										<key>nodeID</key>
-										<string>6E873E03-6D28-496A-92FE-159238275783</string>
+										<string>A9A051B2-B606-4E67-A604-3AE189C5DD0C</string>
 										<key>strokeColor</key>
 										<string>{0.502, 0.502, 0.502, 1.000}</string>
 										<key>strokeStyle</key>
@@ -2160,57 +2160,39 @@
 											<integer>0</integer>
 											<key>text</key>
 											<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
-{\colortbl;\red255\green255\blue255;\red38\green38\blue38;\red255\green255\blue255;\red14\green114\blue164;
-\red132\green134\blue132;}
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;\f1\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red38\green38\blue38;\red255\green254\blue254;\red14\green114\blue163;
+\red131\green134\blue131;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs30 \cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 tp = (\cf4 \cb1 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec4 1\cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 , \cf4 \cb1 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec4 2\cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 , \cf4 \cb1 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec4 3\cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 , [\cf4 \cb1 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec4 4\cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 , \cf4 \cb1 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec4 5\cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 ])\
-print(type(tp)) \cf5 \cb1 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec5 # &lt;class 'tuple'&gt;\cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 \
+\f0\fs30 \cf2 \cb3 tp = (\cf4 \cb1 1\cf2 \cb3 , \cf4 \cb1 2\cf2 \cb3 , \cf4 \cb1 3\cf2 \cb3 , [\cf4 \cb1 4\cf2 \cb3 , \cf4 \cb1 5\cf2 \cb3 ])
+\f1\fs24 \cf0 \cb1 \
+
+\f0\fs30 \cf2 \cb3 print(type(tp)) \cf5 \cb1 # &lt;class 'tuple'&gt;
+\f1\fs24 \cf0 \
 \
-\cf5 \cb1 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec5 ## Length\cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 \
-print(len(tp))  \cf5 \cb1 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec5 # 4\cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 \
+
+\f0\fs30 \cf5 ## Length
+\f1\fs24 \cf0 \
+
+\f0\fs30 \cf2 \cb3 print(len(tp))  \cf5 \cb1 # 4
+\f1\fs24 \cf0 \
 \
-print(tp[\cf4 \cb1 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec4 2\cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 ])    \cf5 \cb1 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec5 # 3\cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 \
-tp[\cf4 \cb1 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec4 3\cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 ][\cf4 \cb1 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec4 1\cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 ] = \cf4 \cb1 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec4 6\cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 \
-print(tp)       \cf5 \cb1 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec5 # (1, 2, 3, [4, 6])\cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 \
+
+\f0\fs30 \cf2 \cb3 print(tp[\cf4 \cb1 2\cf2 \cb3 ])    \cf5 \cb1 # 3
+\f1\fs24 \cf0 \
+
+\f0\fs30 \cf2 \cb3 tp[\cf4 \cb1 3\cf2 \cb3 ][\cf4 \cb1 1\cf2 \cb3 ] = \cf4 \cb1 6
+\f1\fs24 \cf0 \
+
+\f0\fs30 \cf2 \cb3 print(tp)       \cf5 \cb1 # (1, 2, 3, [4, 6])
+\f1\fs24 \cf0 \
 \
-\cf5 \cb1 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec5 ## Single element\cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 \
-tp = (\cf4 \cb1 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec4 1\cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 , )      \cf5 \cb1 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec5 # Not tp = (1)}</string>
+
+\f0\fs30 \cf5 ## Single element
+\f1\fs24 \cf0 \
+
+\f0\fs30 \cf2 \cb3 tp = (\cf4 \cb1 1\cf2 \cb3 , )      \cf5 \cb1 # Not tp = (1)}</string>
 										</dict>
 									</dict>
 									<dict>
@@ -2225,9 +2207,9 @@ tp = (\cf4 \cb1 \expnd0\expndtw0\kerning0
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{585, 805.96759107576759}</string>
+										<string>{585, 433.96759107576759}</string>
 										<key>nodeID</key>
-										<string>0B3777D9-CDBA-4348-8C7B-CCE7A2F146B2</string>
+										<string>316F6D28-2C36-4E64-9C1B-56DD3095712D</string>
 										<key>strokeColor</key>
 										<string>{0.502, 0.502, 0.502, 1.000}</string>
 										<key>strokeStyle</key>
@@ -2248,9 +2230,9 @@ tp = (\cf4 \cb1 \expnd0\expndtw0\kerning0
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{842, 782.96759107576759}</string>
+												<string>{842, 416.46759107576759}</string>
 												<key>nodeID</key>
-												<string>158F9568-EF38-4902-AF2E-BC7AACFE73FF</string>
+												<string>87491EEB-9C3E-43F3-8CA4-51118247124F</string>
 												<key>strokeColor</key>
 												<string>{0.502, 0.502, 0.502, 1.000}</string>
 												<key>strokeStyle</key>
@@ -2269,22 +2251,18 @@ tp = (\cf4 \cb1 \expnd0\expndtw0\kerning0
 													<integer>1</integer>
 													<key>text</key>
 													<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
-{\colortbl;\red255\green255\blue255;\red38\green38\blue38;\red255\green255\blue255;\red14\green114\blue164;
-\red213\green58\blue6;\red132\green134\blue132;}
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;\f1\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red38\green38\blue38;\red255\green254\blue254;\red14\green114\blue163;
+\red212\green58\blue5;\red131\green134\blue131;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs30 \cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 v = (\cf4 \cb1 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec4 3\cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 , \cf4 \cb1 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec4 2\cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 , \cf5 \cb1 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec5 'a'\cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 )\
-(c, b, a) = v\
-print(a, b, c)  \cf6 \cb1 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec6 # a 2 3}</string>
+\f0\fs30 \cf2 \cb3 v = (\cf4 \cb1 3\cf2 \cb3 , \cf4 \cb1 2\cf2 \cb3 , \cf5 \cb1 'a'\cf2 \cb3 )
+\f1\fs24 \cf0 \cb1 \
+
+\f0\fs30 \cf2 \cb3 (c, b, a) = v
+\f1\fs24 \cf0 \cb1 \
+
+\f0\fs30 \cf2 \cb3 print(a, b, c)  \cf6 \cb1 # a 2 3}</string>
 												</dict>
 											</dict>
 										</array>
@@ -2335,9 +2313,9 @@ print(a, b, c)  \cf6 \cb1 \expnd0\expndtw0\kerning0
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{470, 863.96759107576759}</string>
+								<string>{470, 709.96759107576759}</string>
 								<key>nodeID</key>
-								<string>28B17F2F-5BF7-4C85-B2B0-72770500377A</string>
+								<string>F8406038-D8F2-48CC-8382-7D09195FF91A</string>
 								<key>strokeColor</key>
 								<string>{0.502, 0.502, 0.502, 1.000}</string>
 								<key>strokeStyle</key>
@@ -2345,7 +2323,207 @@ print(a, b, c)  \cf6 \cb1 \expnd0\expndtw0\kerning0
 								<key>strokeWidth</key>
 								<real>2</real>
 								<key>subnodes</key>
-								<array/>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<false/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{582, 486.46759107576759}</string>
+										<key>nodeID</key>
+										<string>4BEF3C85-5D4A-402B-9954-5267AEDF295D</string>
+										<key>strokeColor</key>
+										<string>{0.502, 0.502, 0.502, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>2</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>326</integer>
+											<key>htmlText</key>
+											<string>&lt;p&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;st = {&lt;/span&gt;&lt;span style='color: rgba(212, 58, 5, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;&amp;apos;s&amp;apos;&lt;/span&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;, &lt;/span&gt;&lt;span style='color: rgba(212, 58, 5, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;&amp;apos;e&amp;apos;&lt;/span&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;, &lt;/span&gt;&lt;span style='color: rgba(212, 58, 5, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;&amp;apos;T&amp;apos;&lt;/span&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;}&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;print(type(st)) &lt;/span&gt;&lt;span style='color: rgba(131, 134, 131, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;# &amp;lt;class &amp;apos;set&amp;apos;&amp;gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='color: rgba(131, 134, 131, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;## Length&lt;/p&gt;&lt;p&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;print(len(st))  &lt;/span&gt;&lt;span style='color: rgba(131, 134, 131, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;# 3&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='color: rgba(131, 134, 131, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;## Empty&lt;/p&gt;&lt;p style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;st = set()&lt;/p&gt;&lt;p&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;print(len(st))  &lt;/span&gt;&lt;span style='color: rgba(131, 134, 131, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;# 0&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;st = {}&lt;/p&gt;&lt;p&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;print(type(st)) &lt;/span&gt;&lt;span style='color: rgba(131, 134, 131, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;# &amp;lt;class &amp;apos;dict&amp;apos;&amp;gt;&lt;/span&gt;&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>0</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red38\green38\blue38;\red255\green255\blue255;\red213\green58\blue6;
+\red132\green134\blue132;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs30 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 st = \{\cf4 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 's'\cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 , \cf4 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 'e'\cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 , \cf4 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 'T'\cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \}\
+print(type(st)) \cf5 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 # &lt;class 'set'&gt;\cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \
+\
+\cf5 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 ## Length\cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \
+print(len(st))  \cf5 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 # 3\cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \
+\
+\cf5 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 ## Empty\cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \
+st = set()\
+print(len(st))  \cf5 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 # 0\cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \
+\
+st = \{\}\
+print(type(st)) \cf5 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 # &lt;class 'dict'&gt;\cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \
+}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<false/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{582, 834.96759107576759}</string>
+										<key>nodeID</key>
+										<string>D17E503C-3AA7-4B86-8F8E-78AB6F02EB82</string>
+										<key>strokeColor</key>
+										<string>{0.502, 0.502, 0.502, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>2</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<false/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{697, 736.46759107576759}</string>
+												<key>nodeID</key>
+												<string>038B5D49-B303-495D-AC9D-5AD0D8FEEE8B</string>
+												<key>strokeColor</key>
+												<string>{0.502, 0.502, 0.502, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>2</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>423</integer>
+													<key>htmlText</key>
+													<string>&lt;p&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;st = set([&lt;/span&gt;&lt;span style='color: rgba(212, 58, 5, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;&amp;apos;s&amp;apos;&lt;/span&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;, &lt;/span&gt;&lt;span style='color: rgba(212, 58, 5, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;&amp;apos;e&amp;apos;&lt;/span&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;, &lt;/span&gt;&lt;span style='color: rgba(212, 58, 5, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;&amp;apos;T&amp;apos;&lt;/span&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;])&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;st.add(&lt;/span&gt;&lt;span style='color: rgba(212, 58, 5, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;&amp;apos;t&amp;apos;&lt;/span&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;)     &lt;/span&gt;&lt;span style='color: rgba(131, 134, 131, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;# st == {&amp;apos;s&amp;apos;, &amp;apos;e&amp;apos;, &amp;apos;t&amp;apos;, &amp;apos;T&amp;apos;}&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;st.add(&lt;/span&gt;&lt;span style='color: rgba(212, 58, 5, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;&amp;apos;t&amp;apos;&lt;/span&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;)     &lt;/span&gt;&lt;span style='color: rgba(131, 134, 131, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;# st == {&amp;apos;s&amp;apos;, &amp;apos;e&amp;apos;, &amp;apos;t&amp;apos;, &amp;apos;T&amp;apos;}&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;st.update([&lt;/span&gt;&lt;span style='color: rgba(212, 58, 5, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;&amp;apos;!&amp;apos;&lt;/span&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;, &lt;/span&gt;&lt;span style='color: rgba(212, 58, 5, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;&amp;apos;!&amp;apos;&lt;/span&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;])&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgba(131, 134, 131, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;# st == {&amp;apos;s&amp;apos;, &amp;apos;e&amp;apos;, &amp;apos;t&amp;apos;, &amp;apos;T&amp;apos;, &amp;apos;!&amp;apos;}&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;st.discard(&lt;/span&gt;&lt;span style='color: rgba(212, 58, 5, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;&amp;apos;t&amp;apos;&lt;/span&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;) &lt;/span&gt;&lt;span style='color: rgba(131, 134, 131, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;# st == {&amp;apos;s&amp;apos;, &amp;apos;e&amp;apos;, &amp;apos;T&amp;apos;}&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;st.remove(&lt;/span&gt;&lt;span style='color: rgba(212, 58, 5, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;&amp;apos;T&amp;apos;&lt;/span&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;)  &lt;/span&gt;&lt;span style='color: rgba(131, 134, 131, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;# st == {&amp;apos;s&amp;apos;, &amp;apos;e&amp;apos;}&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;st.pop()        &lt;/span&gt;&lt;span style='color: rgba(131, 134, 131, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;# &amp;apos;s&amp;apos;&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgba(131, 134, 131, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;# st == {&amp;apos;e&amp;apos;}&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;st.clear()      &lt;/span&gt;&lt;span style='color: rgba(131, 134, 131, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;# st == set()&lt;/span&gt;&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>0</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red38\green38\blue38;\red255\green255\blue255;\red213\green58\blue6;
+\red132\green134\blue132;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs30 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 st = set([\cf4 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 's'\cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 , \cf4 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 'e'\cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 , \cf4 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 'T'\cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 ])\
+st.add(\cf4 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 't'\cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 )     \cf5 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 # st == \{'s', 'e', 't', 'T'\}\cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \
+st.add(\cf4 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 't'\cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 )     \cf5 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 # st == \{'s', 'e', 't', 'T'\}\cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \
+st.update([\cf4 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 '!'\cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 , \cf4 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 '!'\cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 ])\
+\cf5 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 # st == \{'s', 'e', 't', 'T', '!'\}\cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \
+\
+st.discard(\cf4 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 't'\cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 ) \cf5 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 # st == \{'s', 'e', 'T'\}\cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \
+st.remove(\cf4 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 'T'\cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 )  \cf5 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 # st == \{'s', 'e'\}\cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \
+st.pop()        \cf5 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 # 's'\cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \
+\cf5 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 # st == \{'e'\}\cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \
+\
+st.clear()      \cf5 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 # st == set()}</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "Monaco"; -cocoa-font-postscriptname: "Monaco"; '&gt;Alter&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset0 Monaco;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Alter}</string>
+										</dict>
+									</dict>
+								</array>
 								<key>title</key>
 								<dict>
 									<key>constrainedWidth</key>
@@ -2375,9 +2553,9 @@ print(a, b, c)  \cf6 \cb1 \expnd0\expndtw0\kerning0
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{470, 898.96759107576759}</string>
+								<string>{470, 1110.9675910757676}</string>
 								<key>nodeID</key>
-								<string>E2E18C63-9E6E-49D3-A5A6-99A284C481D7</string>
+								<string>1CDE0D42-F7E1-452C-8B68-9C159991FDDB</string>
 								<key>strokeColor</key>
 								<string>{0.502, 0.502, 0.502, 1.000}</string>
 								<key>strokeStyle</key>
@@ -2385,7 +2563,150 @@ print(a, b, c)  \cf6 \cb1 \expnd0\expndtw0\kerning0
 								<key>strokeWidth</key>
 								<real>2</real>
 								<key>subnodes</key>
-								<array/>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<false/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{582, 968.46759107576759}</string>
+										<key>nodeID</key>
+										<string>0B8E7A72-F5E7-4906-A442-3F79626B52DD</string>
+										<key>strokeColor</key>
+										<string>{0.502, 0.502, 0.502, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>2</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>364</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;dic = {}&lt;/p&gt;&lt;p&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;print(type(dic))    &lt;/span&gt;&lt;span style='color: rgba(131, 134, 131, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;# &amp;lt;class &amp;apos;dict&amp;apos;&amp;gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;dic = {&lt;/span&gt;&lt;span style='color: rgba(212, 58, 5, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;&amp;apos;k1&amp;apos;&lt;/span&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;: &lt;/span&gt;&lt;span style='color: rgba(212, 58, 5, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;&amp;apos;v1&amp;apos;&lt;/span&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;, &lt;/span&gt;&lt;span style='color: rgba(212, 58, 5, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;&amp;apos;k2&amp;apos;&lt;/span&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;: &lt;/span&gt;&lt;span style='color: rgba(212, 58, 5, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;&amp;apos;v2&amp;apos;&lt;/span&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;}&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='color: rgba(131, 134, 131, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;## Length&lt;/p&gt;&lt;p&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;print(len(dic))     &lt;/span&gt;&lt;span style='color: rgba(131, 134, 131, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;# 2&lt;/span&gt;&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>0</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red38\green38\blue38;\red255\green255\blue255;\red132\green134\blue132;
+\red213\green58\blue6;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs30 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 dic = \{\}\
+print(type(dic))    \cf4 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 # &lt;class 'dict'&gt;\cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \
+\
+dic = \{\cf5 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 'k1'\cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 : \cf5 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 'v1'\cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 , \cf5 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 'k2'\cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 : \cf5 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 'v2'\cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \}\
+\
+\cf4 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 ## Length\cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \
+print(len(dic))     \cf4 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 # 2}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<false/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{582, 1110.4675910757676}</string>
+										<key>nodeID</key>
+										<string>ADCB1125-7583-4AD1-8284-8A19B6E0F775</string>
+										<key>strokeColor</key>
+										<string>{0.502, 0.502, 0.502, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>2</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>511</integer>
+											<key>htmlText</key>
+											<string>&lt;p&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;print(dic[&lt;/span&gt;&lt;span style='color: rgba(212, 58, 5, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;&amp;apos;k2&amp;apos;&lt;/span&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;])            &lt;/span&gt;&lt;span style='color: rgba(131, 134, 131, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;# &amp;apos;v2&amp;apos;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;print(dic.get(&lt;/span&gt;&lt;span style='color: rgba(212, 58, 5, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;&amp;apos;k1&amp;apos;&lt;/span&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;))        &lt;/span&gt;&lt;span style='color: rgba(131, 134, 131, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;# &amp;apos;v1&amp;apos;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;print(dic.get(&lt;/span&gt;&lt;span style='color: rgba(212, 58, 5, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;&amp;apos;k3&amp;apos;&lt;/span&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;, &lt;/span&gt;&lt;span style='color: rgba(212, 58, 5, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;&amp;apos;v0&amp;apos;&lt;/span&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;))  &lt;/span&gt;&lt;span style='color: rgba(131, 134, 131, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;# &amp;apos;v0&amp;apos;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;dic[&lt;/span&gt;&lt;span style='color: rgba(212, 58, 5, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;&amp;apos;k2&amp;apos;&lt;/span&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;] = &lt;/span&gt;&lt;span style='color: rgba(212, 58, 5, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;&amp;apos;v3&amp;apos;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;print(dic)                  &lt;/span&gt;&lt;span style='color: rgba(131, 134, 131, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;# {&amp;apos;k1&amp;apos;: &amp;apos;v1&amp;apos;, &amp;apos;k2&amp;apos;: &amp;apos;v3&amp;apos;}&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;print(&lt;/span&gt;&lt;span style='color: rgba(212, 58, 5, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;&amp;apos;k2&amp;apos;&lt;/span&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(148, 6, 74, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;in&lt;/span&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt; dic)          &lt;/span&gt;&lt;span style='color: rgba(131, 134, 131, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;# True&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;print(&lt;/span&gt;&lt;span style='color: rgba(212, 58, 5, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;&amp;apos;v1&amp;apos;&lt;/span&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(148, 6, 74, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;in&lt;/span&gt;&lt;span style='background-color: rgba(255, 254, 254, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt; dic)          &lt;/span&gt;&lt;span style='color: rgba(131, 134, 131, 1.000000); font: 15px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;# False&lt;/span&gt;&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>0</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red38\green38\blue38;\red255\green255\blue255;\red213\green58\blue6;
+\red132\green134\blue132;\red148\green6\blue75;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs30 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 print(dic[\cf4 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 'k2'\cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 ])            \cf5 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 # 'v2'\cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \
+print(dic.get(\cf4 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 'k1'\cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 ))        \cf5 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 # 'v1'\cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \
+print(dic.get(\cf4 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 'k3'\cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 , \cf4 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 'v0'\cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 ))  \cf5 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 # 'v0'\cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \
+\
+dic[\cf4 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 'k2'\cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 ] = \cf4 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 'v3'\cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \
+print(dic)                  \cf5 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 # \{'k1': 'v1', 'k2': 'v3'\}\cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \
+\
+print(\cf4 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 'k2'\cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2  \cf6 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec6 in\cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2  dic)          \cf5 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 # True\cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \
+print(\cf4 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 'v1'\cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2  \cf6 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec6 in\cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2  dic)          \cf5 \cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 # False}</string>
+										</dict>
+									</dict>
+								</array>
 								<key>title</key>
 								<dict>
 									<key>constrainedWidth</key>
@@ -2433,9 +2754,9 @@ print(a, b, c)  \cf6 \cb1 \expnd0\expndtw0\kerning0
 						<key>isLeftAligned</key>
 						<false/>
 						<key>location</key>
-						<string>{263, 933.96759107576759}</string>
+						<string>{263, 1288.4675910757676}</string>
 						<key>nodeID</key>
-						<string>10C9C050-6244-448A-96A2-EEB8881C9DE7</string>
+						<string>688CF5B6-DA48-4793-AFC2-71AD44BA3D9A</string>
 						<key>strokeColor</key>
 						<string>{0.502, 0.502, 0.502, 1.000}</string>
 						<key>strokeStyle</key>
@@ -2473,9 +2794,9 @@ print(a, b, c)  \cf6 \cb1 \expnd0\expndtw0\kerning0
 						<key>isLeftAligned</key>
 						<false/>
 						<key>location</key>
-						<string>{263, 968.96759107576759}</string>
+						<string>{263, 1323.4675910757676}</string>
 						<key>nodeID</key>
-						<string>E8DD731E-EC37-481B-83EB-C7F23D5C3D6D</string>
+						<string>76E391B6-8FD0-49EE-87C4-40F528680F19</string>
 						<key>strokeColor</key>
 						<string>{0.502, 0.502, 0.502, 1.000}</string>
 						<key>strokeStyle</key>
@@ -2513,9 +2834,9 @@ print(a, b, c)  \cf6 \cb1 \expnd0\expndtw0\kerning0
 						<key>isLeftAligned</key>
 						<false/>
 						<key>location</key>
-						<string>{263, 1003.9675910757676}</string>
+						<string>{263, 1358.4675910757676}</string>
 						<key>nodeID</key>
-						<string>CF5D6F81-2DA8-44C3-BF6F-0F1DC59556BB</string>
+						<string>FD27CB3C-A9CB-4EE0-8CBD-A509E6E9B9F6</string>
 						<key>strokeColor</key>
 						<string>{0.502, 0.502, 0.502, 1.000}</string>
 						<key>strokeStyle</key>
@@ -2553,9 +2874,9 @@ print(a, b, c)  \cf6 \cb1 \expnd0\expndtw0\kerning0
 						<key>isLeftAligned</key>
 						<false/>
 						<key>location</key>
-						<string>{263, 1038.9675910757676}</string>
+						<string>{263, 1393.4675910757676}</string>
 						<key>nodeID</key>
-						<string>1EC5B6EA-C79A-4ADF-B791-310C3E3CC2A7</string>
+						<string>B7A27F39-6A2C-457D-BE51-2BC43AF89FA4</string>
 						<key>strokeColor</key>
 						<string>{0.502, 0.502, 0.502, 1.000}</string>
 						<key>strokeStyle</key>
@@ -2593,9 +2914,9 @@ print(a, b, c)  \cf6 \cb1 \expnd0\expndtw0\kerning0
 						<key>isLeftAligned</key>
 						<false/>
 						<key>location</key>
-						<string>{263, 1073.9675910757676}</string>
+						<string>{263, 1428.4675910757676}</string>
 						<key>nodeID</key>
-						<string>09D74A0B-B5DB-4FF2-8079-AB8542F7D13B</string>
+						<string>5EEE3414-9C9B-43AF-A340-C73652EEC197</string>
 						<key>strokeColor</key>
 						<string>{0.502, 0.502, 0.502, 1.000}</string>
 						<key>strokeStyle</key>
@@ -2633,9 +2954,9 @@ print(a, b, c)  \cf6 \cb1 \expnd0\expndtw0\kerning0
 						<key>isLeftAligned</key>
 						<false/>
 						<key>location</key>
-						<string>{263, 1108.9675910757676}</string>
+						<string>{263, 1463.4675910757676}</string>
 						<key>nodeID</key>
-						<string>AD97F631-19A4-4190-B8CE-55E18BBFD563</string>
+						<string>4DD59C6A-E84F-47DA-86D5-364CC3CC3482</string>
 						<key>strokeColor</key>
 						<string>{0.502, 0.502, 0.502, 1.000}</string>
 						<key>strokeStyle</key>
@@ -2673,9 +2994,9 @@ print(a, b, c)  \cf6 \cb1 \expnd0\expndtw0\kerning0
 						<key>isLeftAligned</key>
 						<false/>
 						<key>location</key>
-						<string>{263, 1143.9675910757676}</string>
+						<string>{263, 1498.4675910757676}</string>
 						<key>nodeID</key>
-						<string>D0562C59-1DBD-43F5-86BD-F73B13EA39FA</string>
+						<string>87D26ECA-F265-4ADC-B260-5E1E504B9485</string>
 						<key>strokeColor</key>
 						<string>{0.502, 0.502, 0.502, 1.000}</string>
 						<key>strokeStyle</key>
