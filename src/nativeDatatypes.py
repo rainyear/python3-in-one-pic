@@ -110,5 +110,49 @@ v = (3, 2, 'a')
 print(a, b, c)  # a 2 3
 
 # Set
+st = {'s', 'e', 'T'}
+print(type(st)) # <class 'set'>
+
+## Length
+print(len(st))  # 3
+
+## Empty
+st = set()
+print(len(st))  # 0
+
+st = {}
+print(type(st)) # <class 'dict'>
+
+## Alter
+st = set(['s', 'e', 'T'])
+st.add('t')     # st == {'s', 'e', 't', 'T'}
+st.add('t')     # st == {'s', 'e', 't', 'T'}
+st.update(['!', '!'])
+# st == {'s', 'e', 't', 'T', '!'}
+
+st.discard('t') # st == {'s', 'e', 'T'}
+st.remove('T')  # st == {'s', 'e'}
+st.pop()        # 's'
+# st == {'e'}
+
+st.clear()      # st == set()
 
 # Dict
+dic = {}
+print(type(dic))    # <class 'dict'>
+
+dic = {'k1': 'v1', 'k2': 'v2'}
+
+## Length
+print(len(dic))     # 2
+
+
+print(dic['k2'])            # 'v2'
+print(dic.get('k1'))        # 'v1'
+print(dic.get('k3', 'v0'))  # 'v0'
+
+dic['k2'] = 'v3'
+print(dic)                  # {'k1': 'v1', 'k2': 'v3'}
+
+print('k2' in dic)          # True
+print('v1' in dic)          # False
