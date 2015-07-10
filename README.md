@@ -28,8 +28,8 @@
   - [X] Byte
   - [X] List
   - [X] Tuple
-  - [ ] Set
-  - [ ] Dict
+  - [X] Set
+  - [X] Dict
 - [ ] Operators & Casting
 - [ ] Flow Control
   - [ ] `if/elif/else`
