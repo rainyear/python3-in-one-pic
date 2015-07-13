@@ -7,6 +7,10 @@
 [![BitCoin donate button](https://img.shields.io/badge/bitcoin-donate-yellow.svg)](https://www.coinbase.com/rainyear)
 <!-- /BADGES -->
 
+## Notebook
+
+[IPython Notebook Version](https://github.com/coodict/python3-in-one-pic/blob/master/notebooks/py3-in-one-pic.ipynb)
+
 ## Preview
 
 ![py3 in one pic](py3%20in%20one%20pic.png)
