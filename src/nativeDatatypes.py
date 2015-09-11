@@ -4,6 +4,8 @@
 ## integer
 a = 1
 b = 0x10            # 16
+c = 0o10            # 8
+d = 0b10            # 2
 print(type(a))      # <class 'int'>
 
 ## float
