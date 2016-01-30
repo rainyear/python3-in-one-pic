@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>ACE in Action</title>
+<link href="http://cdn.bootcss.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+<link href="http://cdn.bootcss.com/highlight.js/8.6/styles/github-gist.min.css" rel="stylesheet">
+<script src="//cdn.bootcss.com/highlight.js/9.1.0/highlight.min.js"></script>
+<script src="//cdn.bootcss.com/highlight.js/9.1.0/languages/python.min.js"></script>
+</head>
+<body>
+
+<pre><code class="python">
+s = {2 * x for x in range(10) if x ** 2 > 3}
+print(s)
+# {4, 6, 8, 10, 12, 14, 16, 18}
+
+pairs = set([(x, y) for x in range(2) for y in range(2)])
+print(pairs)
+# {(0, 1), (1, 0), (0, 0), (1, 1)}
+</code></pre>
+
+<script>hljs.initHighlightingOnLoad();</script>
+</body>
+</html>
