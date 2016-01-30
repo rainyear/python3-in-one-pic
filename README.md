@@ -36,10 +36,11 @@
   - [X] Set
   - [X] Dict
 - [ ] Operators & Casting
-- [ ] Flow Control
-  - [ ] `if/elif/else`
-  - [ ] `for...in...`
-  - [ ] `while`
+- [X] Flow Control
+  - [X] `if/elif/else`
+  - [X] `for...in...`
+  - [X] `while`
+  - [X] Comprehensions
 - [ ] Function
 - [ ] Class(OOP)
 - [ ] Module
