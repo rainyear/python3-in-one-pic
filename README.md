@@ -40,6 +40,7 @@
   - [X] `if/elif/else`
   - [X] `for...in...`
   - [X] `while`
+  - [X] `break` & `continue`
   - [X] Comprehensions
 - [ ] Function
 - [ ] Class(OOP)
