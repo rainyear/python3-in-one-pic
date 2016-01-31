@@ -43,6 +43,11 @@
   - [X] `break` & `continue`
   - [X] Comprehensions
 - [ ] Function
+  - [ ] Definition
+  - [ ] Arguments
+  - [ ] Lambda
+  - [ ] Documentation
+  - [ ] @decorator
 - [ ] Class(OOP)
 - [ ] Module
 - [ ] Pythonic
