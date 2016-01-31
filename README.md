@@ -25,7 +25,7 @@
 
 - [X] `import this`
 - [X] Basic Syntax
-- [ ] Native Datatypes
+- [X] Native Datatypes
   - [X] Number
   - [X] String
   - [X] Boolean
@@ -35,7 +35,7 @@
   - [X] Tuple
   - [X] Set
   - [X] Dict
-- [ ] Operators & Casting
+- [X] Operators & Casting
 - [X] Flow Control
   - [X] `if/elif/else`
   - [X] `for...in...`
