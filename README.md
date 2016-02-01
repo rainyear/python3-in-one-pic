@@ -42,12 +42,12 @@
   - [X] `while`
   - [X] `break` & `continue`
   - [X] Comprehensions
-- [ ] Function
-  - [ ] Definition
-  - [ ] Arguments
-  - [ ] Lambda
-  - [ ] Documentation
-  - [ ] @decorator
+- [X] Function
+  - [X] Definition
+  - [X] Arguments
+  - [X] Lambda
+  - [X] Documentation
+  - [X] @decorator
 - [ ] Class(OOP)
 - [ ] Module
 - [ ] Pythonic
