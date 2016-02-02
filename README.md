@@ -49,7 +49,12 @@
   - [X] Lambda
   - [X] Documentation
   - [X] @decorator
-- [ ] Class(OOP)
+- [X] Class(OOP)
+  - [X] `class`
+  - [X] `__init__()` & `self`
+  - [X] Instance
+  - [X] Inheritance
+  - [X] Override
 - [ ] Module
 - [ ] Pythonic
 - [ ] Standard Libraries
