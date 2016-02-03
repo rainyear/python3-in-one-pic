@@ -21,7 +21,7 @@
 * Go in one pic (in preparation)
 
 ## TODO
-- [ ] Use IPython notebook, it's really very cool!
+- [X] Use IPython notebook, it's really very cool!
 
 - [X] `import this`
 - [X] Basic Syntax
