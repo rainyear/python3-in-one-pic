@@ -41,8 +41,8 @@
   - [X] `for...in...`
   - [X] `while`
   - [X] `break` & `continue`
+  - [X] Iterators & Generators
   - [X] Comprehensions
-  - [ ] Iterators & Generators
 - [X] Function
   - [X] Definition
   - [X] Arguments
