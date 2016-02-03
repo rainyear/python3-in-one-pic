@@ -55,7 +55,10 @@
   - [X] Instance
   - [X] Inheritance
   - [X] Override
-- [ ] Module
+- [X] Module
+  - [X] `import`
+  - [X] Search Path
+  - [X] Package
 - [ ] Pythonic
 - [ ] Standard Libraries
   - [ ] `os, sys`
