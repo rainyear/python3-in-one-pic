@@ -22,7 +22,7 @@ If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let&#39;s do more of those!
 &#34;&#34;&#34;" COLOR="#D43A05" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
 </node>
-<node ID="3CD3AF6B-9F06-4304-9A01-FD165F09C079" TEXT="Syntax Roles" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="BE42CBBA-FFE2-413E-ACF8-440DFE1EBB7A" TEXT="Case-sensitive" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="3E934232-2225-4C6C-B114-396FD3B4A4F4" TEXT="a = 1
+<node ID="3CD3AF6B-9F06-4304-9A01-FD165F09C079" COLOR="#000000" TEXT="Syntax Roles" FOLDED="true" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="BE42CBBA-FFE2-413E-ACF8-440DFE1EBB7A" TEXT="Case-sensitive" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="3E934232-2225-4C6C-B114-396FD3B4A4F4" TEXT="a = 1
 A = 2
 print(a is not A)   # True" COLOR="#262626" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Menlo-Regular" SIZE="15" /></node>
 </node>
@@ -31,7 +31,7 @@ print(a is not A)   # True" COLOR="#262626" POSITION="right" STYLE="fork"><edge 
 <node ID="F77FE5BE-7AEB-47D6-9244-4502714A14F8" TEXT="Code blocks are defined by their indentation" COLOR="#800000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="5AD805D2-4A42-4511-93C5-8C7D4DC29836" TEXT="Use 4 spaces per indentation level" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
 </node>
 </node>
-<node ID="934A2963-6FD0-4D1B-AB8C-0D6FAB4BD29C" TEXT="Native Datatypes" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="B5FAB47E-D8BA-4477-A2F1-8E46E19160B6" TEXT="Number" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="5C6F6B60-851F-4141-9DD2-2EFAA28D1B30" TEXT="integer" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="BCF2CE95-828A-424D-AFD6-4223F496A870" TEXT="a = 1
+<node ID="934A2963-6FD0-4D1B-AB8C-0D6FAB4BD29C" COLOR="#000000" TEXT="Native Datatypes" FOLDED="true" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="B5FAB47E-D8BA-4477-A2F1-8E46E19160B6" TEXT="Number" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="5C6F6B60-851F-4141-9DD2-2EFAA28D1B30" TEXT="integer" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="BCF2CE95-828A-424D-AFD6-4223F496A870" TEXT="a = 1
 b = 0x10            # 16&#8232;print(type(a))      # &#60;class &#39;int&#39;&#62;" COLOR="#262626" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Menlo-Regular" SIZE="15" /></node>
 </node>
 <node ID="2AFB85DA-521A-4527-9A75-E0B807C7D903" TEXT="float" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="B36EA607-FB2B-4D48-8CB6-4CB51D80A1EA" TEXT="c = 1.2
@@ -219,107 +219,134 @@ print(&#39;k2&#39; in dic)          # True
 print(&#39;v1&#39; in dic)          # False" COLOR="#262626" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Menlo-Regular" SIZE="15" /></node>
 </node>
 </node>
-<node ID="E430996E-DBDB-444C-B3D6-BB1D9F6E09B6" TEXT="Standard Libraries" COLOR="#000000" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
-<node ID="62645BF8-0787-4855-B4BD-88D1517E3CF9" TEXT="Pythonic" COLOR="#000000" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
-<node ID="5B323A29-284A-4E9E-BA65-AE8641974A2C" TEXT="Module" COLOR="#000000" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="8B0B6F1C-F26A-49A8-A830-BE72A90AB91D" TEXT="Package" COLOR="#000000" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="9D927B6C-B619-4E16-91D8-1B1363E09CF1" TEXT="&#34;&#34;&#34;
-MyModule/
-|--SubModuleOne/
-    |--__init__.py
-    |--smo.py
+<node ID="7467E945-E61B-4251-BD64-5B13C956DF32" COLOR="#000000" TEXT="Flow Control" FOLDED="true" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="EA24FBF2-01C4-4248-82DD-513C0E32B226" TEXT="If" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="94965029-5849-41DF-96A5-0942F895B6FB" TEXT="import sys
+if sys.version_info.major &#60; 3:
+    print(&#34;Version 2.X&#34;)
+elif sys.version_info.major &#62; 3:
+    print(&#34;Future&#34;)
+else:
+    print(&#34;Version 3.X&#34;)" COLOR="#94064A" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Menlo-Regular" SIZE="15" /></node>
+</node>
+<node ID="7C01D019-BABC-45AE-A010-47D44C5A6C63" TEXT="Loop" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="FB815A66-B790-40C9-9970-4E6284A91923" TEXT="For" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="713A35AA-48A7-4AF0-B0FF-D346DC84D407" TEXT="for i in &#34;Hello&#34;:
+    print(i)" COLOR="#94064A" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Menlo-Regular" SIZE="15" /></node>
+</node>
+<node ID="7E7495CD-D687-432E-8F9D-D991C32472E4" TEXT="While" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="33EACF5F-F084-49A3-B030-D2547B28890A" TEXT="prod = 1
+i = 1
+while i &#60; 10:
+    prod = prod * i
+    i += 1
+print(prod)" COLOR="#262626" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Menlo-Regular" SIZE="15" /></node>
+</node>
+<node ID="2C1D5D01-81D6-4B27-84EF-F5A8C36259E9" TEXT="break / continue" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="B9C7EA76-54EC-4BAF-8715-0B8FFB9CF876" TEXT="for n in range(2, 10):
+    if n % 2 == 0:
+        print(&#34;Found an even number &#34;, n)
+        continue
+    if n &#62; 5:
+        print(&#34;GT 5!&#34;)
+        break" COLOR="#94064A" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
+</node>
+<node ID="8E76DA15-D36A-4711-BC39-40BF0982C9AA" TEXT="Iterators &#38; Generators" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="8FA62F2C-0C57-46B7-AE91-7F729D0E5290" TEXT="python = iter(&#34;Python&#34;)
+print(python)
+# &#60;str_iterator object at 0x10293f8d0&#62;
+for i in python:
+    print(i)
 
-# smo.py
-def run():
-    print(&#34;Running MyModule.SubModuleOne.smo!&#34;)
-&#34;&#34;&#34;
-from MyModule.SubModule import smo
-smo.run()
-# Running MyModule.SubModuleOne.smo!" COLOR="#D43A05" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
+# P
+# y
+# t
+# h
+# o
+# n" COLOR="#262626" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
+<node ID="B06C0620-BAEF-4DF7-ABEE-EC742E46F2DA" TEXT="def reverse(data):
+    for index in range(len(data)-1, -1, -1):
+        yield data[index]
+nohtyp = reverse(&#34;Python&#34;)
+print(nohtyp)
+# &#60;generator object reverse at 0x1029539e8&#62;
+for i in nohtyp:
+    print(i)
+# n
+# o
+# h
+# t
+# y
+# P" COLOR="#94064A" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
 </node>
-<node ID="E7A91DCC-1CB2-48F7-B3A2-794E3CA4B78B" TEXT="Search Path" COLOR="#000000" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="3A6B087D-4258-46A7-BFC4-888E6124B50C" TEXT="	1.	current directory
-	2.	echo $PYTHONPATH
-	3.	sys.path" COLOR="#000000" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
 </node>
-<node ID="719B7928-3160-4F64-8CA9-065723591D5F" TEXT="Import" COLOR="#000000" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="D7CF6E67-ACAF-41D8-BDEA-AFBD375E77A7" TEXT="import os
-print(os.name)
-# posix
+<node ID="362BF26A-28FB-4AAE-99BC-C04197049750" TEXT="Comprehensions" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="EE4418C1-DC79-4F63-B8B1-15D9769E899A" TEXT="List" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="107484AF-750B-4E4C-B604-0254036E796E" TEXT="s = [2 * x for x in range(10) if x ** 2 &#62; 3]
+print(s)
+#[4, 6, 8, 10, 12, 14, 16, 18]" COLOR="#262626" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
+<node ID="C36C653A-A244-43FD-B139-5EE54BD2A267" TEXT="pairs = [(x, y) for x in range(2) for y in range(2)]
+print(pairs)
+# [(0, 0), (0, 1), (1, 0), (1, 1)]" COLOR="#262626" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
+</node>
+<node ID="A9F39C59-16E2-409C-9CF2-D179E49C12AA" TEXT="Set" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="858BA469-6DE2-465D-807A-9FEA0D07C151" TEXT="s = {2 * x for x in range(10) if x ** 2 &#62; 3}
+print(s)
+# {4, 6, 8, 10, 12, 14, 16, 18}
 
-from sys import version_info as PY_VERSION
-print(&#34;VERSON: {}.{}&#34;.format(PY_VERSION.major, PY_VERSION.minor))
-# VERSON: 3.5
+pairs = set([(x, y) for x in range(2) for y in range(2)])
+print(pairs)
+# {(0, 1), (1, 0), (0, 0), (1, 1)}" COLOR="#262626" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
+</node>
+<node ID="2CDB4E18-AB60-4043-A3ED-162F6722F67B" TEXT="Dict" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="A180A46D-F245-4C30-9DDF-7169777BD364" TEXT="ls = {s: len(s) for s in [&#34;Python&#34;, &#34;Javascript&#34;, &#34;Golang&#34;]}
+print(ls)
+# {&#39;Python&#39;: 6, &#39;Javascript&#39;: 10, &#39;Golang&#39;: 6}
 
-from math import *
-print(pi)
-# 3.141592653589793" COLOR="#94064A" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
+sl = {v: k for k, v in ls.items()}
+print(sl)
+# {10: &#39;Javascript&#39;, 6: &#39;Golang&#39;}" COLOR="#262626" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
 </node>
 </node>
-<node ID="5892ABD8-2116-4C86-B687-623AAA17CA4F" TEXT="Class (OOP)" COLOR="#000000" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="F421EB75-93EE-47E0-A280-116396A43095" TEXT="Override" COLOR="#000000" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="D3AD2760-24C4-4C09-8093-D662A3EDE6EF" TEXT="class Animal:
-    &#34;&#34;&#34;This is an Animal&#34;&#34;&#34;
-    def __init__(self, can_fly = False):
-        self.can_fly = can_fly
-    def fly(self):
-        if self.can_fly:
-            print(&#34;I CAN fly!&#34;)
-        else:
-            print(&#34;I can not fly!&#34;)
-class Bird:
-    &#34;&#34;&#34;This is a Bird&#34;&#34;&#34;
-    def fly(self):
-        print(&#34;I&#39;m flying high!&#34;)
-bird = Bird()
-bird.fly()    # I&#39;m flying high!" COLOR="#94064A" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
 </node>
-<node ID="2F128A94-8076-4D08-BDC1-E93FD7D2F7F2" TEXT="Inheritance" COLOR="#000000" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="7789216D-576C-4535-9CA6-C025D163A7F5" TEXT="class Animal:
-    &#34;&#34;&#34;This is an Animal&#34;&#34;&#34;
-    def __init__(self, can_fly = False):
-        self.can_fly = can_fly
-    def fly(self):
-        if self.can_fly:
-            print(&#34;I CAN fly!&#34;)
-        else:
-            print(&#34;I can not fly!&#34;)
-class Dog(Animal):
-    &#34;&#34;&#34;This is a Dog&#34;&#34;&#34;
-    def bark(self):
-        print(&#34;&#27754;&#27754;&#65281;&#34;)
-d = Dog()
-d.fly()  # I can not fly!
-d.bark() # &#27754;&#27754;&#65281;" COLOR="#94064A" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
-</node>
-<node ID="C8DF2140-4146-4933-91E7-01F19C47DB40" TEXT="Instance" COLOR="#000000" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="3BBD6C2F-F768-4E62-AB08-316AB80B0AA1" TEXT="class Animal:
-    pass
-class Human:
-    pass
-a = Animal()
-h = Human()
-print(isinstance(a, Animal)) # True
-print(isinstance(h, Animal)) # False" COLOR="#94064A" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
-</node>
-<node ID="F2B13639-2F58-48F0-9B0A-96366E0A5446" TEXT="__init__ &#38; self" COLOR="#000000" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="522852E0-67B3-47C6-846F-4F7743D50095" TEXT="class Animal:
-    &#34;&#34;&#34;This is an Animal&#34;&#34;&#34;
-    def __init__(self, can_fly = False):
-        print(&#34;Calling __init__() when instantiation!&#34;)
-        self.can_fly = can_fly
-    def fly(self):
-        if self.can_fly:
-            print(&#34;I CAN fly!&#34;)
-        else:
-            print(&#34;I can not fly!&#34;)
-a = Animal()               # Calling __init__() when instantiation!
-a.fly()                    # I can not fly!
+<node ID="1A8381F2-9878-49E9-96FF-ECA3E387BB3A" COLOR="#000000" TEXT="Function" FOLDED="true" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="79472996-3922-442F-A14C-B7094B67861F" TEXT="Definition" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="17D40FED-7FE6-4848-BBFB-1F6F560EC087" TEXT="def f():
+    &#34;&#34;&#34;return &#39;Hello, World!&#39;&#34;&#34;&#34;
+    return &#34;Hello, World!&#34;
 
-b = Animal(can_fly = True) # Calling __init__() when instantiation!
-b.fly()                    # I CAN fly!" COLOR="#94064A" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
+print(f())        # &#34;Hello, World!&#34;
+print(f.__doc__)  # &#34;return &#39;Hello, World!&#39;&#34;" COLOR="#94064A" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
 </node>
-<node ID="B408057B-75F1-452C-982F-102C63A0CFA6" TEXT="Class" COLOR="#000000" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="3ADBCD07-62A3-426C-9570-8336A0DDEC4E" TEXT="class Animal:
-    &#34;&#34;&#34;This is an Animal&#34;&#34;&#34;
-    def fly(_):
-        print(&#34;I can fly!&#34;)
-a = Animal()
-a.fly()          # I can fly!
-print(a.__doc__) # This is an Animal" COLOR="#94064A" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
+<node ID="C7851313-35AB-4109-9598-A6BD588BE33C" TEXT="Arguments" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="6A3C14B3-AFBA-486C-A052-D2521012EEB3" TEXT="default arguments" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="EE0F65FF-2B5D-4452-A34C-6313F17F2288" TEXT="def f(name = &#34;World&#34;):
+    &#34;&#34;&#34;return &#39;Hello, $name&#39;&#34;&#34;&#34;
+    return &#34;Hello, {}!&#34;.format(name)
+
+print(f())          # &#39;Hello, World!&#39;
+print(f(&#34;Python&#34;))  # &#39;Hello, Python!&#39;" COLOR="#94064A" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
 </node>
+<node ID="57B09336-8DD6-4FD5-BCC3-3D13EB58944C" TEXT="keyword arguments" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="CF78D268-5884-450C-9610-643ADAE94E38" TEXT="def f(v, l = &#34;Python&#34;):
+    &#34;&#34;&#34;return &#39;$v, $l&#39;&#34;&#34;&#34;
+    return &#34;{}, {}!&#34;.format(v, l)
+
+print(f(&#34;Hello&#34;))         # &#34;Hello, Python!&#34;
+print(f(&#34;Bye&#34;, &#34;C/C++&#34;))  # &#34;Bye, C/C++!&#34;" COLOR="#94064A" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
 </node>
-<node ID="1A8381F2-9878-49E9-96FF-ECA3E387BB3A" TEXT="Function" COLOR="#000000" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="C7851313-35AB-4109-9598-A6BD588BE33C" TEXT="Arguments" COLOR="#000000" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="A1CAFB06-1094-405F-81DF-322391971BBF" TEXT="Decorator" COLOR="#000000" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="86C26733-0981-49C7-9BD4-9DD7DC3A6C3A" TEXT="def log(f):
+<node ID="EE271416-9197-442E-92E6-B56F4A096690" TEXT="arbitrary arguments" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="6A9B89F2-B049-4668-91E3-5F19288EDD4D" TEXT="def f(*args, con = &#34; &#38; &#34;):
+    print(isinstance(args, tuple))
+    print(&#34;Hello&#34;, con.join(args))
+
+f(&#34;Python&#34;, &#34;C&#34;, &#34;C++&#34;, con = &#34;/&#34;)
+# True
+# &#34;Hello Python/C/C++&#34;" COLOR="#94064A" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
+<node ID="35A48060-213C-4205-8E3C-C38AE13ACB33" TEXT="def f(*args, **kargs):
+    print(&#34;args &#34;, args)
+    print(&#34;kargs &#34;, kargs)
+    print(&#34;FP: {} &#38; Scripts: {}&#34;.format(kargs.get(&#34;fp&#34;), &#34;/&#34;.join(args)))
+
+f(&#34;Python&#34;, &#34;Javascript&#34;, ms = &#34;C++&#34;, fp = &#34;Haskell&#34;)
+# args  (&#39;Python&#39;, &#8216;Javascript&#8217;)
+# kargs  {&#39;ms&#39;: &#39;C++&#39;, &#39;fp&#39;: &#39;Haskell&#39;}
+# FP: Haskell and Scripts: Python/Javascript" COLOR="#94064A" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
+</node>
+<node ID="F2E4F93F-487D-4F4A-9645-206BA3369439" TEXT="Lambda" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="B1656BF1-6EF0-4E9B-87CD-BE3FA748D1F0" TEXT="pairs = [(1, &#39;one&#39;), (2, &#39;two&#39;), (3, &#39;three&#39;), (4, &#39;four&#39;)]
+
+pairs.sort(key=lambda pair: pair[1])
+print(pairs)
+&#34;[(4, &#39;four&#39;), (1, &#39;one&#39;), (3, &#39;three&#39;), (2, &#39;two&#39;)]&#34;
+
+pairs.sort(key=lambda pair: pair[0])
+print(pairs)
+&#34;[(1, &#39;one&#39;), (2, &#39;two&#39;), (3, &#39;three&#39;), (4, &#39;four&#39;)]&#34;" COLOR="#262626" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
+</node>
+<node ID="A1CAFB06-1094-405F-81DF-322391971BBF" TEXT="Decorator" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="86C26733-0981-49C7-9BD4-9DD7DC3A6C3A" TEXT="def log(f):
     def wrapper():
         print(&#34;Hey log~&#34;)
         f()
@@ -337,143 +364,116 @@ fb = log(fb)
 
 fa()
 print(&#34;*&#34;*10)
-fb()" COLOR="#94064A" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="33487833-3A6C-4D3E-B260-9580FEF50134" TEXT="# Hey log~
+fb()" COLOR="#94064A" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="33487833-3A6C-4D3E-B260-9580FEF50134" TEXT="# Hey log~
 # This is fa!
 # Bye log~
 # **********
 # Hey log~
 # This is fb!
-# Bye log~" COLOR="#838683" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
+# Bye log~" COLOR="#838683" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
 </node>
 </node>
-<node ID="F2E4F93F-487D-4F4A-9645-206BA3369439" TEXT="Lambda" COLOR="#000000" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="B1656BF1-6EF0-4E9B-87CD-BE3FA748D1F0" TEXT="pairs = [(1, &#39;one&#39;), (2, &#39;two&#39;), (3, &#39;three&#39;), (4, &#39;four&#39;)]
+</node>
+</node>
+<node ID="5892ABD8-2116-4C86-B687-623AAA17CA4F" COLOR="#000000" TEXT="Class (OOP)" FOLDED="true" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="B408057B-75F1-452C-982F-102C63A0CFA6" TEXT="Class" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="3ADBCD07-62A3-426C-9570-8336A0DDEC4E" TEXT="class Animal:
+    &#34;&#34;&#34;This is an Animal&#34;&#34;&#34;
+    def fly(_):
+        print(&#34;I can fly!&#34;)
+a = Animal()
+a.fly()          # I can fly!
+print(a.__doc__) # This is an Animal" COLOR="#94064A" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
+</node>
+<node ID="F2B13639-2F58-48F0-9B0A-96366E0A5446" TEXT="__init__ &#38; self" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="522852E0-67B3-47C6-846F-4F7743D50095" TEXT="class Animal:
+    &#34;&#34;&#34;This is an Animal&#34;&#34;&#34;
+    def __init__(self, can_fly = False):
+        print(&#34;Calling __init__() when instantiation!&#34;)
+        self.can_fly = can_fly
+    def fly(self):
+        if self.can_fly:
+            print(&#34;I CAN fly!&#34;)
+        else:
+            print(&#34;I can not fly!&#34;)
+a = Animal()               # Calling __init__() when instantiation!
+a.fly()                    # I can not fly!
 
-pairs.sort(key=lambda pair: pair[1])
-print(pairs)
-&#34;[(4, &#39;four&#39;), (1, &#39;one&#39;), (3, &#39;three&#39;), (2, &#39;two&#39;)]&#34;
+b = Animal(can_fly = True) # Calling __init__() when instantiation!
+b.fly()                    # I CAN fly!" COLOR="#94064A" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
+</node>
+<node ID="C8DF2140-4146-4933-91E7-01F19C47DB40" TEXT="Instance" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="3BBD6C2F-F768-4E62-AB08-316AB80B0AA1" TEXT="class Animal:
+    pass
+class Human:
+    pass
+a = Animal()
+h = Human()
+print(isinstance(a, Animal)) # True
+print(isinstance(h, Animal)) # False" COLOR="#94064A" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
+</node>
+<node ID="2F128A94-8076-4D08-BDC1-E93FD7D2F7F2" TEXT="Inheritance" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="7789216D-576C-4535-9CA6-C025D163A7F5" TEXT="class Animal:
+    &#34;&#34;&#34;This is an Animal&#34;&#34;&#34;
+    def __init__(self, can_fly = False):
+        self.can_fly = can_fly
+    def fly(self):
+        if self.can_fly:
+            print(&#34;I CAN fly!&#34;)
+        else:
+            print(&#34;I can not fly!&#34;)
+class Dog(Animal):
+    &#34;&#34;&#34;This is a Dog&#34;&#34;&#34;
+    def bark(self):
+        print(&#34;&#27754;&#27754;&#65281;&#34;)
+d = Dog()
+d.fly()  # I can not fly!
+d.bark() # &#27754;&#27754;&#65281;" COLOR="#94064A" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
+</node>
+<node ID="F421EB75-93EE-47E0-A280-116396A43095" TEXT="Override" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="D3AD2760-24C4-4C09-8093-D662A3EDE6EF" TEXT="class Animal:
+    &#34;&#34;&#34;This is an Animal&#34;&#34;&#34;
+    def __init__(self, can_fly = False):
+        self.can_fly = can_fly
+    def fly(self):
+        if self.can_fly:
+            print(&#34;I CAN fly!&#34;)
+        else:
+            print(&#34;I can not fly!&#34;)
+class Bird:
+    &#34;&#34;&#34;This is a Bird&#34;&#34;&#34;
+    def fly(self):
+        print(&#34;I&#39;m flying high!&#34;)
+bird = Bird()
+bird.fly()    # I&#39;m flying high!" COLOR="#94064A" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
+</node>
+</node>
+<node ID="5B323A29-284A-4E9E-BA65-AE8641974A2C" COLOR="#000000" TEXT="Module" FOLDED="true" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="719B7928-3160-4F64-8CA9-065723591D5F" TEXT="Import" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="D7CF6E67-ACAF-41D8-BDEA-AFBD375E77A7" TEXT="import os
+print(os.name)
+# posix
 
-pairs.sort(key=lambda pair: pair[0])
-print(pairs)
-&#34;[(1, &#39;one&#39;), (2, &#39;two&#39;), (3, &#39;three&#39;), (4, &#39;four&#39;)]&#34;" COLOR="#262626" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
-</node>
-<node ID="EE271416-9197-442E-92E6-B56F4A096690" TEXT="arbitrary arguments" COLOR="#000000" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="35A48060-213C-4205-8E3C-C38AE13ACB33" TEXT="def f(*args, **kargs):
-    print(&#34;args &#34;, args)
-    print(&#34;kargs &#34;, kargs)
-    print(&#34;FP: {} &#38; Scripts: {}&#34;.format(kargs.get(&#34;fp&#34;), &#34;/&#34;.join(args)))
+from sys import version_info as PY_VERSION
+print(&#34;VERSON: {}.{}&#34;.format(PY_VERSION.major, PY_VERSION.minor))
+# VERSON: 3.5
 
-f(&#34;Python&#34;, &#34;Javascript&#34;, ms = &#34;C++&#34;, fp = &#34;Haskell&#34;)
-# args  (&#39;Python&#39;, &#8216;Javascript&#8217;)
-# kargs  {&#39;ms&#39;: &#39;C++&#39;, &#39;fp&#39;: &#39;Haskell&#39;}
-# FP: Haskell and Scripts: Python/Javascript" COLOR="#94064A" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
-<node ID="6A9B89F2-B049-4668-91E3-5F19288EDD4D" TEXT="def f(*args, con = &#34; &#38; &#34;):
-    print(isinstance(args, tuple))
-    print(&#34;Hello&#34;, con.join(args))
+from math import *
+print(pi)
+# 3.141592653589793" COLOR="#94064A" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
+</node>
+<node ID="E7A91DCC-1CB2-48F7-B3A2-794E3CA4B78B" TEXT="Search Path" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="3A6B087D-4258-46A7-BFC4-888E6124B50C" TEXT="	1.	current directory
+	2.	echo $PYTHONPATH
+	3.	sys.path" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
+</node>
+<node ID="8B0B6F1C-F26A-49A8-A830-BE72A90AB91D" TEXT="Package" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="9D927B6C-B619-4E16-91D8-1B1363E09CF1" TEXT="&#34;&#34;&#34;
+MyModule/
+|--SubModuleOne/
+    |--__init__.py
+    |--smo.py
 
-f(&#34;Python&#34;, &#34;C&#34;, &#34;C++&#34;, con = &#34;/&#34;)
-# True
-# &#34;Hello Python/C/C++&#34;" COLOR="#94064A" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
-</node>
-<node ID="57B09336-8DD6-4FD5-BCC3-3D13EB58944C" TEXT="keyword arguments" COLOR="#000000" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="CF78D268-5884-450C-9610-643ADAE94E38" TEXT="def f(v, l = &#34;Python&#34;):
-    &#34;&#34;&#34;return &#39;$v, $l&#39;&#34;&#34;&#34;
-    return &#34;{}, {}!&#34;.format(v, l)
-
-print(f(&#34;Hello&#34;))         # &#34;Hello, Python!&#34;
-print(f(&#34;Bye&#34;, &#34;C/C++&#34;))  # &#34;Bye, C/C++!&#34;" COLOR="#94064A" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
-</node>
-<node ID="6A3C14B3-AFBA-486C-A052-D2521012EEB3" TEXT="default arguments" COLOR="#000000" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="EE0F65FF-2B5D-4452-A34C-6313F17F2288" TEXT="def f(name = &#34;World&#34;):
-    &#34;&#34;&#34;return &#39;Hello, $name&#39;&#34;&#34;&#34;
-    return &#34;Hello, {}!&#34;.format(name)
-
-print(f())          # &#39;Hello, World!&#39;
-print(f(&#34;Python&#34;))  # &#39;Hello, Python!&#39;" COLOR="#94064A" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
+# smo.py
+def run():
+    print(&#34;Running MyModule.SubModuleOne.smo!&#34;)
+&#34;&#34;&#34;
+from MyModule.SubModule import smo
+smo.run()
+# Running MyModule.SubModuleOne.smo!" COLOR="#D43A05" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
 </node>
 </node>
-<node ID="79472996-3922-442F-A14C-B7094B67861F" TEXT="Definition" COLOR="#000000" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="17D40FED-7FE6-4848-BBFB-1F6F560EC087" TEXT="def f():
-    &#34;&#34;&#34;return &#39;Hello, World!&#39;&#34;&#34;&#34;
-    return &#34;Hello, World!&#34;
-
-print(f())        # &#34;Hello, World!&#34;
-print(f.__doc__)  # &#34;return &#39;Hello, World!&#39;&#34;" COLOR="#94064A" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
-</node>
-</node>
-<node ID="7467E945-E61B-4251-BD64-5B13C956DF32" TEXT="Flow Control" COLOR="#000000" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="362BF26A-28FB-4AAE-99BC-C04197049750" TEXT="Comprehensions" COLOR="#000000" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="2CDB4E18-AB60-4043-A3ED-162F6722F67B" TEXT="Dict" COLOR="#000000" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="A180A46D-F245-4C30-9DDF-7169777BD364" TEXT="ls = {s: len(s) for s in [&#34;Python&#34;, &#34;Javascript&#34;, &#34;Golang&#34;]}
-print(ls)
-# {&#39;Python&#39;: 6, &#39;Javascript&#39;: 10, &#39;Golang&#39;: 6}
-
-sl = {v: k for k, v in ls.items()}
-print(sl)
-# {10: &#39;Javascript&#39;, 6: &#39;Golang&#39;}" COLOR="#262626" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
-</node>
-<node ID="A9F39C59-16E2-409C-9CF2-D179E49C12AA" TEXT="Set" COLOR="#000000" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="858BA469-6DE2-465D-807A-9FEA0D07C151" TEXT="s = {2 * x for x in range(10) if x ** 2 &#62; 3}
-print(s)
-# {4, 6, 8, 10, 12, 14, 16, 18}
-
-pairs = set([(x, y) for x in range(2) for y in range(2)])
-print(pairs)
-# {(0, 1), (1, 0), (0, 0), (1, 1)}" COLOR="#262626" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
-</node>
-<node ID="EE4418C1-DC79-4F63-B8B1-15D9769E899A" TEXT="List" COLOR="#000000" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="C36C653A-A244-43FD-B139-5EE54BD2A267" TEXT="pairs = [(x, y) for x in range(2) for y in range(2)]
-print(pairs)
-# [(0, 0), (0, 1), (1, 0), (1, 1)]" COLOR="#262626" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
-<node ID="107484AF-750B-4E4C-B604-0254036E796E" TEXT="s = [2 * x for x in range(10) if x ** 2 &#62; 3]
-print(s)
-#[4, 6, 8, 10, 12, 14, 16, 18]" COLOR="#262626" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
-</node>
-</node>
-<node ID="7C01D019-BABC-45AE-A010-47D44C5A6C63" TEXT="Loop" COLOR="#000000" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="8E76DA15-D36A-4711-BC39-40BF0982C9AA" TEXT="Iterators &#38; Generators" COLOR="#000000" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="B06C0620-BAEF-4DF7-ABEE-EC742E46F2DA" TEXT="def reverse(data):
-    for index in range(len(data)-1, -1, -1):
-        yield data[index]
-nohtyp = reverse(&#34;Python&#34;)
-print(nohtyp)
-# &#60;generator object reverse at 0x1029539e8&#62;
-for i in nohtyp:
-    print(i)
-# n
-# o
-# h
-# t
-# y
-# P" COLOR="#94064A" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
-<node ID="8FA62F2C-0C57-46B7-AE91-7F729D0E5290" TEXT="python = iter(&#34;Python&#34;)
-print(python)
-# &#60;str_iterator object at 0x10293f8d0&#62;
-for i in python:
-    print(i)
-
-# P
-# y
-# t
-# h
-# o
-# n" COLOR="#262626" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
-</node>
-<node ID="2C1D5D01-81D6-4B27-84EF-F5A8C36259E9" TEXT="break / continue" COLOR="#000000" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="B9C7EA76-54EC-4BAF-8715-0B8FFB9CF876" TEXT="for n in range(2, 10):
-    if n % 2 == 0:
-        print(&#34;Found an even number &#34;, n)
-        continue
-    if n &#62; 5:
-        print(&#34;GT 5!&#34;)
-        break" COLOR="#94064A" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
-</node>
-<node ID="7E7495CD-D687-432E-8F9D-D991C32472E4" TEXT="While" COLOR="#000000" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="33EACF5F-F084-49A3-B030-D2547B28890A" TEXT="prod = 1
-i = 1
-while i &#60; 10:
-    prod = prod * i
-    i += 1
-print(prod)" COLOR="#262626" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Menlo-Regular" SIZE="15" /></node>
-</node>
-<node ID="FB815A66-B790-40C9-9970-4E6284A91923" TEXT="For" COLOR="#000000" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="713A35AA-48A7-4AF0-B0FF-D346DC84D407" TEXT="for i in &#34;Hello&#34;:
-    print(i)" COLOR="#94064A" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Menlo-Regular" SIZE="15" /></node>
-</node>
-</node>
-<node ID="EA24FBF2-01C4-4248-82DD-513C0E32B226" TEXT="If" COLOR="#000000" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="94965029-5849-41DF-96A5-0942F895B6FB" TEXT="import sys
-if sys.version_info.major &#60; 3:
-    print(&#34;Version 2.X&#34;)
-elif sys.version_info.major &#62; 3:
-    print(&#34;Future&#34;)
-else:
-    print(&#34;Version 3.X&#34;)" COLOR="#94064A" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Menlo-Regular" SIZE="15" /></node>
-</node>
-</node>
+<node ID="62645BF8-0787-4855-B4BD-88D1517E3CF9" TEXT="Pythonic" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
+<node ID="E430996E-DBDB-444C-B3D6-BB1D9F6E09B6" TEXT="Standard Libraries" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
 </node>
 </map>
