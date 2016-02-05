@@ -81,20 +81,20 @@ print(int(&#34;0b1010&#34;, base = 0)) # 10" COLOR="#262626" POSITION="right" ST
 </node>
 </node>
 </node>
-<node ID="4F7CD8F0-6BF6-4C99-8F67-DECEF9B9FFCF" TEXT="String" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="2B1A322D-F3A6-42CF-B512-063F63AC9005" TEXT="s1 = &#39;&#55357;&#56374;\n&#39;
+<node ID="4F7CD8F0-6BF6-4C99-8F67-DECEF9B9FFCF" TEXT="String" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="2B1A322D-F3A6-42CF-B512-063F63AC9005" TEXT="s1 = &#8216;:dog:\n&#8217;
 s2 = &#34;Dogge&#39;s home&#34;
 s3 = &#34;&#34;&#34;
 Hello,
 Dogge!
 &#34;&#34;&#34;&#8232;print(type(s1))     					# &#60;class &#39;str&#39;&#62;
-print(&#34;%s, %s, %s&#34; % (s1, s2, s3))&#8232;# &#55357;&#56374;
+print(&#34;%s, %s, %s&#34; % (s1, s2, s3))&#8232;# :dog:
 # , Dogge&#39;s home,
 # Hello,
 # Dogge!" COLOR="#262626" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Menlo-Regular" SIZE="15" /></node>
 <node ID="8B2EADD5-7878-4469-90E0-02423E57F0FC" TEXT="Length" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="5D3E343A-E437-491D-ADC2-3B6D8184019D" TEXT="print(len(s1))       # 2" COLOR="#262626" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Menlo-Regular" SIZE="15" /></node>
 </node>
-<node ID="1FF9FC55-D2A0-40C0-A756-A6318F83E91B" TEXT="Slicing" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="1D81A35F-C67C-4590-90D3-24547CAB877B" TEXT="s = &#39;&#23398;&#32780;&#26102;&#20064;&#20043;&#39;
-print(&#39;{0}:{1}&#39;.format(s[0], s[-2]))    # &#23398;:&#20064;" COLOR="#262626" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Menlo-Regular" SIZE="15" /></node>
+<node ID="1FF9FC55-D2A0-40C0-A756-A6318F83E91B" TEXT="Slicing" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="A4915F85-639A-479A-9874-840894ECBC0A" TEXT="s = &#39;study and practice&#39;
+print(&#39;{0}:{1}&#39;.format(s[:5], s[-8:]))    # study:practice" COLOR="#333333" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
 </node>
 <node ID="8B4FC305-7AA5-44E1-831F-93C0B13D6B38" TEXT="Operator" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="0F674D21-EE7C-491F-8829-AF4A8FF8C05C" TEXT="+" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
 <node ID="939A74F4-AD8D-4DC6-8BA2-ADAAB443E973" TEXT="print(&#34;abc&#34; + &#34;.&#34; + &#34;xyz&#34;)  # &#34;abc.xyz&#34;" COLOR="#262626" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
@@ -298,12 +298,31 @@ print(sl)
 </node>
 </node>
 </node>
+<<<<<<< HEAD
 <node ID="1A8381F2-9878-49E9-96FF-ECA3E387BB3A" COLOR="#000000" TEXT="Function" FOLDED="true" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="79472996-3922-442F-A14C-B7094B67861F" TEXT="Definition" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="17D40FED-7FE6-4848-BBFB-1F6F560EC087" TEXT="def f():
     &#34;&#34;&#34;return &#39;Hello, World!&#39;&#34;&#34;&#34;
     return &#34;Hello, World!&#34;
 
 print(f())        # &#34;Hello, World!&#34;
 print(f.__doc__)  # &#34;return &#39;Hello, World!&#39;&#34;" COLOR="#94064A" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
+=======
+<node ID="2F128A94-8076-4D08-BDC1-E93FD7D2F7F2" TEXT="Inheritance" COLOR="#000000" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="E79DB590-E680-4909-B3C7-511CB15D7566" TEXT="class Animal:
+    &#34;&#34;&#34;This is an Animal&#34;&#34;&#34;
+    def __init__(self, can_fly = False):
+        self.can_fly = can_fly
+    def fly(self):
+        if self.can_fly:
+            print(&#34;I CAN fly!&#34;)
+        else:
+            print(&#34;I can not fly!&#34;)
+class Dog(Animal):
+    &#34;&#34;&#34;This is a Dog&#34;&#34;&#34;
+    def bark(self):
+        print(&#34;Woof!&#34;)
+d = Dog()
+d.fly()    # I can not fly!
+d.bark()   # Woof!" COLOR="#A71D5D" POSITION="left" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /></node>
+>>>>>>> gh-pages
 </node>
 <node ID="C7851313-35AB-4109-9598-A6BD588BE33C" TEXT="Arguments" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="6A3C14B3-AFBA-486C-A052-D2521012EEB3" TEXT="default arguments" COLOR="#000000" POSITION="right" STYLE="fork"><edge COLOR="#808080" WIDTH="2" /><font NAME="Monaco" SIZE="14" /><node ID="EE0F65FF-2B5D-4452-A34C-6313F17F2288" TEXT="def f(name = &#34;World&#34;):
     &#34;&#34;&#34;return &#39;Hello, $name&#39;&#34;&#34;&#34;
