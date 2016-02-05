@@ -11,19 +11,22 @@
 <body>
 
 <pre><code class="python">
-"""
-MyModule/
-|--SubModuleOne/
-    |--__init__.py
-    |--smo.py
-
-# smo.py
-def run():
-    print("Running MyModule.SubModuleOne.smo!")
-"""
-from MyModule.SubModule import smo
-smo.run()
-# Running MyModule.SubModuleOne.smo!
+class Animal:
+    """This is an Animal"""
+    def __init__(self, can_fly = False):
+        self.can_fly = can_fly
+    def fly(self):
+        if self.can_fly:
+            print("I CAN fly!")
+        else:
+            print("I can not fly!")
+class Dog(Animal):
+    """This is a Dog"""
+    def bark(self):
+        print("Woof!")
+d = Dog()
+d.fly()    # I can not fly!
+d.bark()   # Woof!
 </code></pre>
 
 <script>hljs.initHighlightingOnLoad();</script>
