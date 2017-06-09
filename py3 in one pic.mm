@@ -261,7 +261,7 @@ print(pi)
             print(&#34;I CAN fly!&#34;)
         else:
             print(&#34;I can not fly!&#34;)
-class Bird:
+class Bird(Animal):
     &#34;&#34;&#34;This is a Bird&#34;&#34;&#34;
     def fly(self):
         print(&#34;I&#39;m flying high!&#34;)
