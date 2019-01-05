@@ -13,7 +13,7 @@
 
 ## Notebook
 
-[IPython Notebook Version](https://github.com/coodict/python3-in-one-pic/blob/master/notebooks/py3-in-one-pic.ipynb)
+[IPython Notebook Version](https://github.com/coodict/python3-in-one-pic/blob/master/notebooks/py3-in-one-pic.ipynb) [<img align="right" height="24" src="https://beta.deepnote.org/buttons/launch-in-deepnote.svg">](https://beta.deepnote.org/launch?template=data-science&url=https%3A%2F%2Fgithub.com%2Fcoodict%2Fpython3-in-one-pic%2Fblob%2Fmaster%2Fnotebooks%2Fpy3-in-one-pic.ipynb)
 
 ## Preview
 
