@@ -24,7 +24,7 @@
 * [Javascript in one pic](https://github.com/coodict/javascript-in-one-pic)
 * Go in one pic (in preparation)
 
-## TODO
+## TO DO
 - [X] Use IPython notebook, it's really very cool!
 
 - [X] `import this`
